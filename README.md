@@ -1,8 +1,12 @@
+<div align="center">
+
 # Kevin Sandoval
 
-**`Full-Stack Web Developer Intern`** @ Green River College
+**`Full-Stack Web Developer Intern`** - Green River College
 
 **`Software Development`** - Green River College
+
+</div>
 
 ## Hello World! 🌍
 
@@ -38,6 +42,8 @@ Green River College
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
+<br>
 
 ---
 
