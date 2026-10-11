@@ -22,9 +22,13 @@ I'm a full-stack developer chasing after understanding the digital world. Foreve
 # Projects
 
 <a href="https://github.com/leoraggy/salamander-project">Salamander Tracker</a>
+<br>
 Green River College
+<br>
 • Developed a full-stack web application that processes salamander videos to track movement using Java, Spring Boot, React, and JavaCV/FFmpeg.
+<br>
 • Implemented image binarization and DFS-based connected-component analysis to identify the largest salamander-shaped region and calculate its centroid coordinates.
+<br>
 • Built backend APIs to process uploaded videos, generate CSV tracking data, and serve downloadable analysis results.
 
 <a href="https://github.com/KevinSandoval12/chatterbox">ChatterBot</a>
