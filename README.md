@@ -1,4 +1,4 @@
-## Kevin Sandoval
+# Kevin Sandoval
 
 Full-Stack Web Developer Intern for Green River College
 
@@ -17,7 +17,7 @@ I'm a full-stack developer chasing after understanding the digital world. Foreve
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
-# Projects
+## Projects
 
 <a href="https://github.com/leoraggy/salamander-project">Salamander Tracker</a>
 <br>
