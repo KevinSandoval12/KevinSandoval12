@@ -32,7 +32,11 @@ Green River College
 • Built backend APIs to process uploaded videos, generate CSV tracking data, and serve downloadable analysis results.
 
 <a href="https://github.com/KevinSandoval12/chatterbox">ChatterBot</a>
+<br>
 Green River College
+<br>
 • Developed a multithreaded Java chat client using TCP sockets for real-time client-server communication.
+<br>
 • Implemented user authentication, message streaming, and concurrent handling of incoming and outgoing chat messages.
+<br>
 • Tested and debugged networking functionality by connecting multiple clients and validating communication with local and remote servers.
