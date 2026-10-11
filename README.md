@@ -2,14 +2,11 @@
 
 Full-Stack Web Developer Intern for Green River College
 
-**`Software Development`**
-**`Student @ Green River College`**
+**`Software Development Student @ Green River College`**
 
 ## Hello World!
 
 I'm a full-stack developer chasing after understanding the digital world. Forever learning to achieve and create great things
-
----
 
 ## 🧰 Languages and Tools
 
