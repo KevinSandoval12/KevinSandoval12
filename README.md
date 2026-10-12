@@ -14,10 +14,7 @@ I'm a full-stack developer chasing after understanding the digital world. Foreve
 
 ## Projects 💻
 
-<a href="https://github.com/leoraggy/salamander-project">
-<img width="1991" height="1120" alt="image" src="https://github.com/user-attachments/assets/77d60562-ddb0-4b04-ae78-705f8dc8b461" />
-<br>
-Salamander Tracker</a>
+<a href="https://github.com/leoraggy/salamander-project">Salamander Tracker</a>
 <br>
 Green River College
 <br>
