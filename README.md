@@ -4,11 +4,7 @@
 
 **`Full-Stack Web Developer Intern`** - Green River College <img alt="Green River College" width="30px" style="padding-right:10px;" src="https://www.greenriver.edu/media/general-images/brand-guide/logo-files/logo_downloads/grc-logo-white-2602.png" />
 
-<br>
-
 **`Software Development`** - Green River College <img alt="Green River College" width="30px" style="padding-right:10px;" src="https://www.greenriver.edu/media/general-images/brand-guide/logo-files/logo_downloads/grc-logo-white-2602.png" />
-
-<br>
 
 </div>
 
