@@ -2,9 +2,13 @@
 
 # Kevin Sandoval
 
-**`Full-Stack Web Developer Intern`** - Green River College
+**`Full-Stack Web Developer Intern`** - Green River College <img alt="Green River College" width="30px" style="padding-right:10px;" src="https://www.greenriver.edu/media/general-images/brand-guide/logo-files/logo_downloads/grc-logo-white-2602.png" />
 
-**`Software Development`** - Green River College
+<br>
+
+**`Software Development`** - Green River College <img alt="Green River College" width="30px" style="padding-right:10px;" src="https://www.greenriver.edu/media/general-images/brand-guide/logo-files/logo_downloads/grc-logo-white-2602.png" />
+
+<br>
 
 </div>
 
@@ -12,7 +16,7 @@
 
 I'm a full-stack developer chasing after understanding the digital world. Forever learning to achieve and create great things
 
-## Projects
+## Projects 💻
 
 <a href="https://github.com/leoraggy/salamander-project">Salamander Tracker</a>
 <br>
